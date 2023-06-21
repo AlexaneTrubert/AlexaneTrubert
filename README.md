@@ -33,6 +33,6 @@ Lover of Symfony, baby dev on Drupal <3
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alexanetrubert&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=alexanetrubert&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
